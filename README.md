@@ -21,4 +21,4 @@
 3)
    a -> The function loops through the entore strong from 0 to string.length -1. Even if the value is found early the fucntion still checks all the N characters so, the time complexity grow linear.
 
-  b ->
+  b -> (on a diff file 3b codex.js)
